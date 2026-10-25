@@ -1,0 +1,8 @@
+pandas
+matplotlib
+sentence-transformers
+faiss-cpu
+streamlit
+python-dotenv
+requests
+openai
